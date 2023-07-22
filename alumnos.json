@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Zapatillas",
+    "price": "25555",
+    "description": "Las mejores",
+    "category": "Zapatos",
+    "image": "zaraza",
+    "rating": {
+      "rate": 55,
+      "count": 44
+    }
+  }
+]
